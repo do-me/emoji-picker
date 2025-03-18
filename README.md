@@ -13,7 +13,7 @@ Following these ideas, you can build similar applications in a matter of minutes
 ### 2. Convert html to excel 
 - Run convert_unicode_html_to_excel.ipynb
 
-<img width="982" alt="image" src="https://github.com/user-attachments/assets/c1b38c32-26d4-4410-be86-0e8895917407" />
+<img width="972" alt="image" src="https://github.com/user-attachments/assets/e4002f6f-dd22-42cb-9a2f-518bcac76b38" />
 
 ### 3. Copy and paste text to SemanticFinder
 
