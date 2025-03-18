@@ -21,7 +21,7 @@ Following these ideas, you can build similar applications in a matter of minutes
 
 - just open https://do-me.github.io/SemanticFinder/?hf=1910_Unicode_Emojis_9e4e14e7
 - search for any emoji, by default, it's using semantic search
-- if you want to use habrid search, i.e. using semantic search and full-text search with keywords, you can do so by adding a list of keywords that the text should or should not contain, e.g. like this
+- if you want to use hybrid search, i.e. using semantic search and full-text search with keywords, you can do so by adding a list of keywords that the text should or should not contain, e.g. like this
 
 <img width="1425" alt="image" src="https://github.com/user-attachments/assets/187430a3-2678-415f-9dfb-61063a86592d" />
 
