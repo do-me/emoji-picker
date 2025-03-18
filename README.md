@@ -1,4 +1,4 @@
-# emoji-picker
+# Semantic Emoji Picker
 Tutorial repo to build an emoji picker with SemanticFinder. 
 Following these ideas, you can build similar applications in a matter of minutes!
 
